@@ -1,0 +1,4 @@
+length of a rectangle is 32 meters and the width is 20 meters.
+In front of a variable or a number, it indicates the opposite.
+6.36 What percent of 120 is 96? 
+Step 3.**Name.**Choose a variable to represent it.|Let_A_= the area|
